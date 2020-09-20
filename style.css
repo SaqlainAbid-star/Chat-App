@@ -1,0 +1,27 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    
+}
+
+.chat-window{
+    height: 520px;
+
+}
+.user1{
+ float: left;
+ clear: both;
+/* width: fit-content; */
+/* margin right: 300px; */
+/* bootstrap class w-50 */
+
+ list-style: none;
+}
+
+.user2{
+  float: right;
+  clear: both;
+
+  /* margin-left: 300px; */
+  list-style: none;
+}
